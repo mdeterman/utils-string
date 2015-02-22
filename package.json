@@ -10,7 +10,11 @@
   "engines": {
     "node": "*"
   },
-  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.githubusercontent.com/mdeterman/utils-string/master/LICENSE"
+    }
   "bugs": {
     "url": "https://github.com/mdeterman/utils-string/issues"
   },
@@ -24,5 +28,8 @@
     "type": "git",
     "url": "git@github.com:mdeterman/utils-string.git"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "scripts": {
+    "test": "gulp test"
+  }
 }
