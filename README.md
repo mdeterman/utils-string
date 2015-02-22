@@ -14,7 +14,7 @@ http://cdn.rawgit.com/mdeterman/utils-string/master/docs/utils-string.html
 ```js
 var UtilsString = require('utils-string');
 
-Utils.String.trim(" abc");
+UtilsString.trim(" abc");
 ```
 
 ## Tests
