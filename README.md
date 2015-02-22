@@ -1,7 +1,7 @@
 Uilts String
 ============
-
 [![Build Status](https://travis-ci.org/mdeterman/utils-string.svg?branch=master)](https://travis-ci.org/mdeterman/utils-string)
+
 ## Installation
 
     npm install utils-string --save
