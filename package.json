@@ -1,0 +1,28 @@
+{
+  "name": "utils-string",
+  "version": "1.0.0",
+  "description": "Port of Apache Commons StringUtils",
+  "main": "./lib/utils-string.js",
+  "author": {
+    "name": "Mark Determan",
+    "email": "mdeterman@gmail.com"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdeterman/utils-string/issues"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "gulp": "^3.8.11",
+    "gulp-jasmine": "^2.0.0",
+    "gulp-jsdoc": "^0.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mdeterman/utils-string.git"
+  },
+  "dependencies": {}
+}
