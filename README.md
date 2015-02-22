@@ -7,15 +7,15 @@ Uilts String
 
 ## JSDoc
 
-    http://cdn.rawgit.com/mdeterman/utils-string/master/docs/utils-string.html
+http://cdn.rawgit.com/mdeterman/utils-string/master/docs/utils-string.html
 
 ## Usage
 
-    ```
-    var UtilsString = require('utils-string');
+```js
+var UtilsString = require('utils-string');
 
-    Utils.String.trim(" abc");
-    ```
+Utils.String.trim(" abc");
+```
 
 ## Tests
 
