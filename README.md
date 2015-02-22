@@ -7,7 +7,7 @@ Uilts String
 
 ## JSDoc
 
-http://cdn.rawgit.com/mdeterman/utils-string/master/docs/utils-string.html
+[http://cdn.rawgit.com/mdeterman/utils-string/master/docs/utils-string.html](http://cdn.rawgit.com/mdeterman/utils-string/master/docs/utils-string.html)
 
 ## Usage
 
